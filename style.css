@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.background{
+
+    background-color: rgb(100, 170, 255);
+}
+.title{
+    font-size: 56px;
+    text-align: center;
+    color: rgb(0, 72, 72);
+    margin-top: 40px;
+}
+
+.container{
+
+    margin: auto;
+    margin-top: 100px;
+    padding: 15px;
+    border: 3px  solid rgb(64, 0, 255) ;
+    border-radius: 15px;
+    width: 400px;
+    padding-left: 30px;
+    height: 170px;
+}
+
+.link{
+    font-size: 32px;
+    color: rgb(5, 1, 45);
+
+text-decoration: none;
+}
+.number{
+    font-size: 32px;
+}

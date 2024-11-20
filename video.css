@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.background{
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+}
+
+.video{
+    
+    width: 560px;
+    height: 315px;
+    margin-left: 500px;
+    margin-top: 40px;
+    
+    
+}
+.title{
+    font-size: 56px;
+    color: rgb(0, 136, 255);
+    text-align: center;
+    margin-top: 40px;
+}
+.link{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 24px;
+ 
+       
+}
+
+  .container{
+    margin: auto;
+    width: 180px;
+    height: 54px;
+    border-radius: 6px;
+    text-align: center;
+   padding-top: 15px;
+   background-color: rgb(255, 255, 255);
+  
+   
+   
+  }
+
+.link{
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+   
+    
+}
